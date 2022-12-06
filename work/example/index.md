@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Work Entry two"
+title: "My example work"
 order: 1
 preview: 1.jpg
 ---

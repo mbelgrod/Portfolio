@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Work Entry Version two"
+title: "Pancake pals"
 order: 0
 preview: 2.jpeg
 gallery:
